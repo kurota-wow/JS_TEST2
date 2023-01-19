@@ -1,0 +1,24 @@
+table {
+  width: 300px;
+  height: 150px;
+  text-align: center;
+}
+
+input {
+  width: 70px;
+  height: 25px;
+  border: 1px solid;
+  border-radius: 2px;
+}
+
+.display {
+  width: 300px;
+  height: 30px;
+  border: none;
+  background: rgb(49, 49, 49);
+  color: #fff;
+  text-align: right;
+}
+.clear, .equal {
+  width: 147px;
+}
